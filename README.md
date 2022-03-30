@@ -105,43 +105,11 @@ Desenvolvimento de um sistema CRUD para solitações de serviços na empresa Nov
 
 - Ciclo de vida do desenvolvimento do projeto
 
-- ![](./docs/assets/)
+- ![](./docs/assets/git_branches.svg)
 
 ### Banco de dados
 
-#### Esquema do banco de dados
-
-- tabela_usuario
-
-|???    |???        |???
-|---    |---        |---
-|PK, AI |Number     |id
-|-      |String     |nome
-|-      |String     |sobrenome
-|-      |String     |data_nascimento
-|-      |Timestamp  |data_cadastro
-
-- tabela_orcamento
-
-|???    |???    |???
-|---    |---    |---
-|PK, AI |Number |id
-|-      |String |servico
-|-      |Number |preco
-|-      |Number |desconto_a_vista
-|-      |String |descricao
-
-- tabela_pedido
-
-|???    |???    |???
-|---    |---    |---
-|PK, AI |Number |id
-|FK     |Number |id_usuario
-|FK     |Number |id_orcamento
-
-#### Relacionamento das tabelas do banco de dados
-
-- ![Relacionamento normalizado das tabelas](./docs/assets/)
+- ![Relacionamento normalizado das tabelas](./docs/assets/diagrama_entidade_relacionamento.svg)
 
 ## Equipe de desenvolvedores
 
