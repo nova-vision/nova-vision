@@ -4,7 +4,7 @@
 
 - ![Logo Victor 3D](./docs/assets/victor_3d.png)
 
-Desenvolvimento de um sistema CRUD para solitações de serviços na empresa Nova Vision.
+Desenvolvimento de um sistema CRUD para solicitações de serviços na empresa Nova Vision.
 
 - Visão geral do projeto
 
