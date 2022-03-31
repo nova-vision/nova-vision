@@ -17,56 +17,30 @@ Desenvolvimento de um sistema CRUD para solitações de serviços na empresa Nov
 #### Stack de desenvolvimento
 
 - Versionamento
-    - Possibilidade 00
+   
         1. Git.
 
 - Conteinerização do ambiente de desenvolvimento
-    - Possibilidade 01
+  
         1. Docker.
-        1. Docker-Compose.
+    
+- Backend/ Sitema de gerenciamento de banco de dados 
 
-    - Possibilidade 02
-        1. Podman (apenas para Linux).
-        1. Shell Script.
-
-- Sistema de gerenciamento de banco de dados
-    - Possibilidade 01
-        1. MySQL.
-
-    - Possibilidade 02
-        1. PostgreSQL (PGAdmin 4).
-
-- Backend
-    - Possibilidade 01
-        1. Java JDBC.
-
-    - Possibilidade 02
+    -(JPA)
         1. Java SpringBoot.
 
-    - Possibilidade 03
-        1. TypeScript Sequelize.
-
 - Frontend
-    - Possibilidade 01
-        1. NextJS, TypeScript e Styled-Components.
 
-    - Possibilidade 02
-        1. NextJS, JavaScript e Styled-Components.
-
-    - Possibilidade 03
-        1. HTML, CSS (Bootstrap) e JavaScript.
+        1. HTML, CSS.
 
 - Automação da qualidade de software
     - Possibilidade 01
         1. Python.
 
 - Gerenciamento do progresso de features
-    - Possibilidade 01
-        1. JIRA
 
-    - Possibilidade 02
-        1. Trello
-
+        1.Github (Projetos)
+    
 #### Stack de produção
 
 - Servidor de dados
@@ -101,7 +75,7 @@ Desenvolvimento de um sistema CRUD para solitações de serviços na empresa Nov
 |development_backend    |Desenvolvimento do backend
 |development_frontend   |Desenvolvimento do frontend
 |planning               |Esboço do projeto
-|testing                |Verificação de erros
+|testing                |Verificação de erros documentação de features
 
 - Ciclo de vida do desenvolvimento do projeto
 
@@ -117,7 +91,7 @@ Desenvolvimento de um sistema CRUD para solitações de serviços na empresa Nov
 
 |Membros            |Responsabilidade atribuída
 |---                |---
-|Guilherme Carini   |Automação do teste de software
+|Guilherme Carini   |Qualidade de software
 |Gustavo Scarpim    |Desenvolvimento do frontend
 |Henrik Beck        |Desenvolvimento do backend
 |Micael Trivelato   |Desenvolvimento do backend
