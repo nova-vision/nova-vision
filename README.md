@@ -17,29 +17,22 @@ Desenvolvimento de um sistema CRUD para solitações de serviços na empresa Nov
 #### Stack de desenvolvimento
 
 - Versionamento
-   
-        1. Git.
+	> Git
 
 - Conteinerização do ambiente de desenvolvimento
-  
-        1. Docker.
+	> Docker
     
 - Backend/ Sitema de gerenciamento de banco de dados 
-
-    -(JPA)
-        1. Java SpringBoot.
+	> Java SpringBoot (JPA)
 
 - Frontend
-
-        1. HTML, CSS.
+	> HTML e CSS
 
 - Automação da qualidade de software
-    - Possibilidade 01
-        1. Python.
+	> Python
 
 - Gerenciamento do progresso de features
-
-        1.Github (Projetos)
+	> Github (Projects section)
     
 #### Stack de produção
 
